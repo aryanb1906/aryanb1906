@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/aryan-bhargava-333789285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-bhargava-333789285/" height="30" width="40" /></a>
 <a href="https://instagram.com/aryan._.bhargava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan._.bhargava" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/aryanaakcwla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/aryanaakcwla/" height="30" width="40" /></a>
+  <a align="center" href="mailto:aryanaakash2005@gmail.com">
+    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Gmail/gmail.svg" alt="gmail" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
