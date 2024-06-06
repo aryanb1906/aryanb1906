@@ -53,49 +53,28 @@ Here are some ideas to get you started:
 
 <h2 align="left">Skills :</h2>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanb1906&label=Profile%20views&color=0e75b6&style=flat" alt="aryanb1906" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanb1906" alt="aryanb1906" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-bhargava-333789285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-bhargava-333789285/" height="30" width="40" /></a>
+<a href="https://instagram.com/aryan._.bhargava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan._.bhargava" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/aryanaakcwla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/aryanaakcwla/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanb1906&show_icons=true&locale=en&layout=compact" alt="aryanb1906" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanb1906&show_icons=true&locale=en" alt="aryanb1906" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanb1906&" alt="aryanb1906" /></p>
 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-
-# Tools 🛠️ 
-
-<img src = "https://imgs.search.brave.com/W1oqYkMJRHyPzzA7xhkYmoCraTxqA2lw3oqBESZxiyE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9kZnN1/a25mYno0Nm9xLmNs/b3VkZnJvbnQubmV0/L3AvaWNvbnMvYmxl/bmRlci5wbmc" width = "60" height = "60"/> &nbsp; <img src="https://imgs.search.brave.com/JDT4jh4zHtNQWgPohOm1ETVVqz5tH7DlRaB0KofGMcA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kZXZl/bG9wZXIuYW5kcm9p/ZC5jb20vc3RhdGlj/L2ltYWdlcy9zcG90/LWljb25zL2FuZHJv/aWQtc3R1ZGlvLnN2/Zw.svg" width = "60" height = "60"/> &nbsp; <img src="https://imgs.search.brave.com/dhlg2llpJiilp7TBoA4ENKc4IhwzDMdr33Y_iY_8kvA/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85LzlhL1Zp/c3VhbF9TdHVkaW9f/Q29kZV8xLjM1X2lj/b24uc3ZnLzUxMnB4/LVZpc3VhbF9TdHVk/aW9fQ29kZV8xLjM1/X2ljb24uc3ZnLnBu/Zw" width = "60" height = "60"/> <img src = "https://imgs.search.brave.com/emnFTmUzq4BKVcmPKxw8ob3QVwpJhGEUtwrOzZIBqnI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9qdXB5/dGVyLm9yZy9hc3Nl/dHMvdHJ5L2p1cHl0/ZXIucG5n" width = "60" height = "60"  /><img src = "https://imgs.search.brave.com/zV1Rw-IS0ehzeXXXh8LygFhvYaRofMDMmcVTsdrgLb0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2QwL0dvb2dsZV9D/b2xhYm9yYXRvcnlf/U1ZHX0xvZ28uc3Zn.svg" width = "70" height = "60" />
-<img src ="https://imgs.search.brave.com/RUoK3EF7Fjo4yuClAeJHqCHsFTzZ_KnBrhQBsswKZ50/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9rYWdnbGUt/aWNvbi0xMDI0eDEw/MjQtMGoxcDVibzUu/cG5n" width = "50" height = "50" bottom = "10" /> &nbsp;
-<img src="https://imgs.search.brave.com/2Nheu-ZFntOg9MQfXbiKgfwN87Bzu_3LHYy_cre_ZQA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzMw/a2l4L3N0eWxlcy9j/b21tdW5pdHlJY29u/X24yaHZ5bjk2endr/ODEucG5n" width = "60" height = "60" left=''/>
-
-
-  # 📈 Contribution Graph
-
-  ![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ReDxDaGer&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true)
-
-  # My Stats 
- <div align="left">
-
-![ReDxDaGer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReDxDaGer&theme=catppuccin_mocha&show_icons=true)
-
-</div>
-  <p ><img width = 340 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReDxDaGer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p>
-  <p align = "centre"> 
-    <img width = 48.7% src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReDxDaGer&theme=github_dark&hide_border=false"/>
-    <img width = 48.8% src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReDxDaGer&theme=github_dark&hide_border=false"/>
-  </p>
-  
-# 🌐 Social handles
-
-<a href="https://www.instagram.com/m___y_a_s_h__11/"> <img alt="Dynamic YAML Badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="130" height="30"> </a> &nbsp; <a href="https://www.linkedin.com/in/aryan-bhargava-333789285/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width= "130" height ="30" /> &nbsp; <a href="https://twitter.com/Yashpy7"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="yash"  width= "130" height ="30"/></a>
 
 
