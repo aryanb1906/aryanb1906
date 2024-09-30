@@ -5,17 +5,16 @@
 <h1 align="center">Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Aryan Bhargava</h1>
 
 
+
+# 💫 About Me:
 <h3 align="center">A passionate frontend developer from India ⚠️ Adaptable, troubleshooting, high-quality solutions. 📈 Focused on Data Science, AI/ML enthusiast. 🕥 Continuous skill improvement, innovation.</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=red&background=00FFE400&center=true&width=435&lines=Aryan+Bhargava+this+side+.....;KIIT+BHUBANESWAR+(CSE)+2027...;DATA+SCIENCE+IIT+MADRAS+2027)](https://git.io/typing-svg)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanb1906&label=Profile%20views&color=0e75b6&style=flat" alt="aryanb1906" /> </p>
 
 
-# 💫 About Me:
-A passionate frontend developer from India ⚠️ Adaptable, troubleshooting, high-quality solutions. 📈 Focused on Data Science, AI/ML enthusiast. 🕥 Continuous skill improvement, innovation.<br><br>🌱 I’m currently learning MySQL & Next + React JS<br>👯 I’m looking to collaborate on Frontend Project<br><br>📫 How to reach me aryanbhargava2005@gmail.com
-
+<h3>🌱 I’m currently learning MySQL & Next + React JS<br>👯 I’m looking to collaborate on Frontend Project<br><br>📫 How to reach me aryanbhargava2005@gmail.com</h3>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aryanbhargava.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan._.bhargava) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-bhargava-333789285/) 
