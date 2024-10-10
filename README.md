@@ -14,7 +14,7 @@
 
 
 
-<h3>🌱 I’m currently learning MySQL & Next + React JS<br>👯 I’m looking to collaborate on Frontend Project<br><br>📫 How to reach me aryanbhargava2005@gmail.com</h3>
+<h3>🌱 I’m currently learning MySQL & Next + React JS<br>👯 I’m looking to collaborate on Frontend Project<br><br>📫 How to reach me aryanbhargava2005@gmail.com<br></h3>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aryanbhargava.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan._.bhargava) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-bhargava-333789285/) 
