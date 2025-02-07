@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="centre" alt="Banner" src="https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?w=1380&t=st=1695566586~exp=1695567186~hmac=c2cbe69598f0fc2832b96e6e3874378558ad74ad41546baa03baafda9d79e843" />
+<img align="centre" alt="Banner" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 <h1 align="center">Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Aryan Bhargava</h1>
 
