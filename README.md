@@ -217,18 +217,17 @@ If you'd like to collaborate on **Frontend, AI/ML, or Competitive Programming pr
 - 📧 Email: [aryanbhargava2005@gmail.com](mailto:aryanbhargava2005@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/aryan-bhargava](https://www.linkedin.com/in/aryan-bhargava/)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
-<div align="center">
-  <a href="https://github.com/aryanb1906?tab=achievements" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=aryanb1906&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="aryanb1906 trophies" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanb1906&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanb1906&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/aryanb1906?style=for-the-badge&label=Followers" alt="followers" />
   <img src="https://img.shields.io/github/stars/aryanb1906?style=for-the-badge&label=Total%20Stars" alt="stars" />
-  <img src="https://img.shields.io/github/last-commit/aryanb1906/aryanb1906?style=for-the-badge&label=Last%20Update" alt="last update" />
+  <img src="https://komarev.com/ghpvc/?username=aryanb1906&style=for-the-badge&color=0e75b6" alt="profile views" />
 </p>
 
 <p align="center">
@@ -270,13 +269,7 @@ If you'd like to collaborate on **Frontend, AI/ML, or Competitive Programming pr
 </div>
 
 <p align="center">
-  🤝 Visitor count<br>
-  <img src="https://profile-counter.glitch.me/aryanb1906/count.svg" alt="visitor count" />
-</p>
-
-<p align="center" width="100%">
-  <h3 align="center">🔝 Top Contributed Repo</h3>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100" alt="footer" />
+  <img src="https://komarev.com/ghpvc/?username=aryanb1906&style=flat-square&color=0e75b6" alt="visitor count" />
 </p>
 
 
