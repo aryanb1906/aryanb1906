@@ -185,7 +185,7 @@ Architected an offline-first maternal-health PWA for low-bandwidth regions with 
     <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/algolia/1-repos-per-language.svg" alt="repos per language" />
     <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/algolia/2-most-commit-language.svg" alt="most commit language" />
     <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/algolia/3-stats.svg" alt="stats" />
-    <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/algolia/4-productive-time.svg" alt="productive time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanb1906&theme=algolia&utcOffset=5.5" alt="productive time (IST)" />
   </a>
 </p>
 
@@ -221,7 +221,7 @@ If you'd like to collaborate on **Frontend, AI/ML, or Competitive Programming pr
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/algolia/3-stats.svg" alt="stats" />
-  <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/algolia/4-productive-time.svg" alt="productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanb1906&theme=algolia&utcOffset=5.5" alt="productive time (IST)" />
 </p>
 
 <p align="center">
