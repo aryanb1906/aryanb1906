@@ -38,7 +38,7 @@
 
 ## 💼 Internship Experience
 
-### Founder Office Intern — [IICPC](https://iicpc.com/) (InterCollegiate Informatics & Competitive Programming Camp)
+### Founder Office Intern — [IICPC](https://iicpc.com/) (InterCollegiate Informatic & Competitive Programming Camp)
 **Jan 2026 – Present | Chennai (Remote)**
 - Designed 15+ partnership proposals with leadership, driving outreach to 10+ top quant firms.
 - Managed performance data for 10,000+ candidates and validated 30+ algorithmic problems with high accuracy.
