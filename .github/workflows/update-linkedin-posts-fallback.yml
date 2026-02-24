@@ -1,0 +1,63 @@
+name: Update LinkedIn posts in README (Fallback)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 3 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-from-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README from local posts.json
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+
+            const readmePath = 'README.md';
+            const jsonPath = 'data/linkedin-posts.json';
+            const startTag = '<!-- LINKEDIN-POST-LIST:START -->';
+            const endTag = '<!-- LINKEDIN-POST-LIST:END -->';
+
+            if (!fs.existsSync(jsonPath)) {
+              core.setFailed(`Missing ${jsonPath}`);
+              return;
+            }
+
+            const posts = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+            const readme = fs.readFileSync(readmePath, 'utf8');
+
+            const start = readme.indexOf(startTag);
+            const end = readme.indexOf(endTag);
+
+            if (start === -1 || end === -1 || end < start) {
+              core.setFailed('README markers not found for LINKEDIN-POST-LIST');
+              return;
+            }
+
+            const lines = Array.isArray(posts)
+              ? posts
+                  .slice(0, 5)
+                  .filter(p => p && p.title && p.url)
+                  .map(p => `- 📝 [${p.title}](${p.url})`)
+              : [];
+
+            const replacement = `${startTag}\n${lines.length ? lines.join('\n') : '- 🔄 No posts configured yet.'}\n${endTag}`;
+
+            const updated = readme.slice(0, start) + replacement + readme.slice(end + endTag.length);
+            fs.writeFileSync(readmePath, updated);
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update LinkedIn posts in README (fallback)"
+          git push

@@ -1,0 +1,26 @@
+name: Update LinkedIn posts in README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-linkedin:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update README from LinkedIn RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://rsshub.app/linkedin/posts/aryan-bhargava"
+          max_post_count: 5
+          readme_path: "README.md"
+          comment_tag_name: "LINKEDIN-POST-LIST"
+          template: "- 📝 [$title]($url)"
+          commit_message: "chore: update LinkedIn posts in README"
