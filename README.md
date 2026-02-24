@@ -220,8 +220,12 @@ If you'd like to collaborate on **Frontend, AI/ML, or Competitive Programming pr
 ## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanb1906&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanb1906&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/algolia/3-stats.svg" alt="stats" />
+  <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/algolia/4-productive-time.svg" alt="productive time" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aryanb1906&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
