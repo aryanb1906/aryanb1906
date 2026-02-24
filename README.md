@@ -1,10 +1,10 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Aryan Bhargava</h2>
 
 <p align="center">
-  <img alt="Banner" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+  <img alt="Banner" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="360" />
 </p>
 
-<h1 align="center">Yo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />, I'm Aryan Bhargava</h1>
+<h1 align="center">Computer Science Student • Developer • CP Enthusiast</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -14,10 +14,10 @@
 
 ## 💫 About Me
 
-<h3 align="center">A passionate frontend developer from India ⚠️ Adaptable, troubleshooting, high-quality solutions. 📈 Focused on Data Science, AI/ML enthusiast. 🕥 Continuous skill improvement, innovation.</h3>
+<h3 align="center">I love development and competitive programming. Passionate about building high-quality products, solving real problems, and continuously improving in AI/ML and software engineering.</h3>
 
-- 🌱 I’m currently learning MySQL, Next.js, and React JS.
-- 👯 I’m looking to collaborate on frontend projects.
+- 🌱 Currently learning: MySQL, Next.js, and React.js.
+- 👯 Open to collaboration on frontend development and competitive programming projects.
 - 📫 Reach me at: **aryanbhargava2005@gmail.com**
 - 🔗 Communities: [IICPC](https://iicpc.com/) | [GeeksforGeeks KIIT](https://gfgkiit.in/) | [AlgoZenith KIIT Chapter](https://algozenith-kiit-chapter.vercel.app/)
 
@@ -191,12 +191,23 @@ Architected an offline-first maternal-health PWA for low-bandwidth regions with 
 
 ## 🔥 GitHub Streak & Contribution Calendar
 
+> GitHub README does not allow true JS interactivity, so these are clickable interactive links.
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryanb1906&theme=radical&hide_border=true" alt="GitHub streak" />
+  <a href="https://github.com/aryanb1906" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=aryanb1906&theme=radical&hide_border=true" alt="GitHub streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanb1906&theme=react-dark&hide_border=true&area=true" alt="Contribution calendar" />
+  <a href="https://github.com/aryanb1906" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanb1906&theme=react-dark&hide_border=true&area=true" alt="Contribution calendar" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aryanb1906" target="_blank">🔍 Open Full Contribution Calendar</a> •
+  <a href="https://github.com/aryanb1906?tab=repositories" target="_blank">📚 Open Repositories</a>
 </p>
 
 ## 🤝 Let’s Collaborate
@@ -209,8 +220,20 @@ If you'd like to collaborate on **Frontend, AI/ML, or Competitive Programming pr
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanb1906&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="aryanb1906" />
+  <a href="https://github.com/aryanb1906?tab=achievements" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=aryanb1906&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="aryanb1906 trophies" />
+  </a>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/aryanb1906?style=for-the-badge&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/github/stars/aryanb1906?style=for-the-badge&label=Total%20Stars" alt="stars" />
+  <img src="https://img.shields.io/github/last-commit/aryanb1906/aryanb1906?style=for-the-badge&label=Last%20Update" alt="last update" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/aryanb1906?tab=achievements" target="_blank">👉 Open full GitHub Achievements</a>
+</p>
 
 ---
 
