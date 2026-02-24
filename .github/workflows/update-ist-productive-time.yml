@@ -1,0 +1,29 @@
+name: Update IST productive-time card
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-ist-card:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download IST productive-time SVG
+        run: |
+          mkdir -p assets
+          curl -L "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanb1906&theme=algolia&utcOffset=5.5" -o assets/productive-time-ist.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/productive-time-ist.svg
+          git diff --cached --quiet || git commit -m "chore: update IST productive-time card"
+          git push
