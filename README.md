@@ -172,7 +172,8 @@ Architected an offline-first maternal-health PWA for low-bandwidth regions with 
 > Fallback: edit `data/linkedin-posts.json` and run **Update LinkedIn posts in README (Fallback)** workflow.
 
 <!-- LINKEDIN-POST-LIST:START -->
-- 🔄 Loading latest posts...
+- 📝 [My latest LinkedIn post title](https://www.linkedin.com/posts/aryanb1906_example)
+- 📝 [Another LinkedIn update](https://www.linkedin.com/posts/aryanb1906_example2)
 <!-- LINKEDIN-POST-LIST:END -->
 
 - 🔗 [View all LinkedIn activity](https://www.linkedin.com/in/aryan-bhargava/recent-activity/all/)
