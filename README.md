@@ -21,7 +21,7 @@
 ### Kalinga Institute of Industrial Technology (KIIT)
 **B.Tech in Computer Science and Engineering (2023 – Present)**
 
-![CGPA](https://img.shields.io/badge/CGPA-8.94-success?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-9.15-success?style=for-the-badge)
 ![Batch](https://img.shields.io/badge/Batch-2027-blue?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-Bhubaneswar-informational?style=for-the-badge)
 
