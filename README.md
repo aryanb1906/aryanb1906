@@ -28,9 +28,7 @@
   <img src="https://img.shields.io/github/last-commit/aryanb1906/aryanb1906?style=flat-square&color=40c463&label=last%20deploy" alt="Last Deploy" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanb1906&theme=matrix&column=7&margin-w=15&margin-h=15" alt="Trophy Case" width="100%" />
-</p>
+
 
 <h3 align="center">I love development and competitive programming. Passionate about building high-quality products, solving real problems, and continuously improving in AI/ML and software engineering.</h3>
 
