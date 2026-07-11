@@ -222,8 +222,8 @@ Impact:
 > Fallback: edit `data/linkedin-posts.json` and run **Update LinkedIn posts in README (Fallback)** workflow.
 
 <!-- LINKEDIN-POST-LIST:START -->
+- 📝 [Cold Emails That Actually Got Replies (Day 4) - [Update URL in data/linkedin-posts.json!]](https://www.linkedin.com/in/aryan-bhargava/)
 - 📝 [Cold Emails That Actually Got Replies (Day 3)](https://www.linkedin.com/posts/aryan-bhargava_internships-coldemail-students-activity-7479768631875170304-ct4X)
-- 📝 [View all LinkedIn posts and activity](https://www.linkedin.com/in/aryan-bhargava/recent-activity/all/)
 <!-- LINKEDIN-POST-LIST:END -->
 
 👉 [View all LinkedIn activity](https://www.linkedin.com/in/aryan-bhargava/recent-activity/all/)
@@ -233,8 +233,10 @@ Impact:
 ## 📊 $ systemctl status analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanb1906&show_icons=true&theme=matrix&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanb1906&layout=compact&theme=matrix&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/dracula/0-profile-details.svg" alt="Profile Details" height="135" />
+  <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/dracula/3-stats.svg" alt="Stats" height="135" />
+  <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repos per Language" height="135" />
+  <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" height="135" />
   <br><br>
   <img src="./assets/productive-time-ist.svg" alt="Productive Time (IST)" height="140" />
 </p>
@@ -298,7 +300,7 @@ Impact:
 </p>
 
 <p align="center">
-  <img align="top" src="https://leetcard.jacoblin.cool/aryanbhargava2005?theme=dark&font=Nunito&ext=heatmap" alt="leetcard" width="100%" />
+  <img align="top" src="https://leetcard.jacoblin.cool/aryanbhargava2005?theme=dark&font=Nunito&ext=heatmap" alt="leetcard" height="170" />
 </p>
 
 ---
