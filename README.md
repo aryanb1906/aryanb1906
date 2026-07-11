@@ -28,6 +28,10 @@
   <img src="https://img.shields.io/github/last-commit/aryanb1906/aryanb1906?style=flat-square&color=40c463&label=last%20deploy" alt="Last Deploy" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanb1906&theme=matrix&column=7&margin-w=15&margin-h=15" alt="Trophy Case" width="100%" />
+</p>
+
 <h3 align="center">I love development and competitive programming. Passionate about building high-quality products, solving real problems, and continuously improving in AI/ML and software engineering.</h3>
 
 ```bash
@@ -42,6 +46,26 @@ $ cat about_me.json
     "AlgoZenith KIIT Chapter"
   ]
 }
+```
+
+---
+
+## 📂 $ tree --dirsfirst aryan_mind/
+
+```bash
+aryan_mind/
+├── 🧠 core_systems/
+│   ├── algorithms.cpp (Competitive Programming)
+│   └── neural_net.py (AI/ML application building)
+├── 💼 work_directories/
+│   ├── zenergize_CMS/
+│   │   ├── ZenSense_dashboard.js (EV Charger CMS)
+│   │   └── procurement_logistics.py (Inventory Tracker)
+│   └── iicpc_data/
+│       └── candidates_performance.xlsx (10k+ candidates logs)
+└── ⚙️ configurations/
+    ├── dev_environment/ (VS Code, Git, AutoCAD)
+    └── system_coursework/ (DSA, OS, DBMS, OOP)
 ```
 
 ---
@@ -252,6 +276,7 @@ Impact:
   <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most Commit Language" height="135" />
   <br><br>
   <img src="./assets/productive-time-ist.svg" alt="Productive Time (IST)" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aryanb1906&theme=matrix&hide_border=true" alt="WakaTime Stats" height="140" />
 </p>
 
 ### 📈 Activity & Streak Status
