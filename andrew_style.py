@@ -105,7 +105,7 @@ INFO = [
     ("kv", (["Email", "Personal"], "aryanaakash2005@gmail.com")),
     ("kv", (["Portfolio"], "aryanb1906.github.io")),
     ("kv", (["LinkedIn"], "aryan-bhargava")),
-    ("kv", (["LinkedIn", "Followers"], "500+")),
+    ("kv", (["LinkedIn", "Followers"], "21,500+")),
     ("kv", (["GitHub"], "aryanb1906")),
     ("blank", None),
     ("section", "GitHub Stats"),
