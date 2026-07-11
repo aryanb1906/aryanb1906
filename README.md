@@ -336,7 +336,13 @@ Impact:
 </p>
 
 <p align="center">
-  <img align="top" src="https://leetcard.jacoblin.cool/aryanbhargava2005?theme=dark&font=Nunito&ext=heatmap" alt="leetcard" height="170" />
+  <a href="https://leetcode.com/aryanbhargava2005/" target="_blank">
+    <img align="top" src="https://github-readme-leetcode.vercel.app/api?username=aryanbhargava2005&theme=dark" alt="LeetCode Stats" height="170" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/aryanbhargava2005/" target="_blank">
+    <img align="top" src="https://leetcard.jacoblin.cool/aryanbhargava2005?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap" height="170" />
+  </a>
 </p>
 
 ---
