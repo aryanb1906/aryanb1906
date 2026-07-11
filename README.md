@@ -24,6 +24,10 @@
 
 ## 💫 $ whoami --details
 
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/aryanb1906/aryanb1906?style=flat-square&color=40c463&label=last%20deploy" alt="Last Deploy" />
+</p>
+
 <h3 align="center">I love development and competitive programming. Passionate about building high-quality products, solving real problems, and continuously improving in AI/ML and software engineering.</h3>
 
 ```bash
@@ -207,6 +211,21 @@ Impact:
 👉 Read & Engage: https://lnkd.in/p/gRFQJY7n
 =============================================================================
 ```
+
+---
+
+## 🌐 $ ping -c 4 connection_nodes
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-bhargava/"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?logo=linkedin&logoColor=40c463&style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/aryanbhargava2005/"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=40c463&style=flat-square" alt="LeetCode" /></a>
+  <a href="mailto:aryanaakash2005@gmail.com"><img src="https://img.shields.io/badge/Email-%23000000.svg?logo=gmail&logoColor=40c463&style=flat-square" alt="Email" /></a>
+  <a href="https://discord.gg/aryanbhargava"><img src="https://img.shields.io/badge/Discord-%23000000.svg?logo=discord&logoColor=40c463&style=flat-square" alt="Discord" /></a>
+  <a href="https://instagram.com/aryan.bhargava"><img src="https://img.shields.io/badge/Instagram-%23000000.svg?logo=instagram&logoColor=40c463&style=flat-square" alt="Instagram" /></a>
+  <a href="https://twitter.com/aryanb1906"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=twitter&logoColor=40c463&style=flat-square" alt="Twitter" /></a>
+  <a href="https://aryanb1906.github.io"><img src="https://img.shields.io/badge/Website-%23000000.svg?logo=google-chrome&logoColor=40c463&style=flat-square" alt="Website" /></a>
+  <a href="https://www.codilio.com/aryanbhargava2005/"><img src="https://img.shields.io/badge/Codilio-%23000000.svg?logo=codio&logoColor=40c463&style=flat-square" alt="Codilio" /></a>
+</p>
 
 ---
 
