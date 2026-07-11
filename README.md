@@ -13,7 +13,7 @@
 
 - 🌱 Currently learning: MySQL, Next.js, and React.js.
 - 👯 Open to collaboration on frontend development and competitive programming projects.
-- 📫 Reach me at: **aryanbhargava2005@gmail.com**
+- 📫 Reach me at: **aryanaakash2005@gmail.com**
 - 🔗 Communities: [IICPC](https://iicpc.com/) | [GeeksforGeeks KIIT](https://gfgkiit.in/) | [AlgoZenith KIIT Chapter](https://algozenith-kiit-chapter.vercel.app/)
 
 ## 🎓 Education Snapshot
@@ -21,7 +21,7 @@
 ### Kalinga Institute of Industrial Technology (KIIT)
 **B.Tech in Computer Science and Engineering (2023 – Present)**
 
-![CGPA](https://img.shields.io/badge/CGPA-9.15-success?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-8.94-success?style=for-the-badge)
 ![Batch](https://img.shields.io/badge/Batch-2027-blue?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-Bhubaneswar-informational?style=for-the-badge)
 
@@ -32,6 +32,12 @@
 ![DBMS](https://img.shields.io/badge/DBMS-9C27B0?style=for-the-badge)
 
 ## 💼 Internship Experience
+
+### Software & Product Intern — [Zenergize](https://zenergize.in)
+**May 2026 – Present | Remote**
+- India's first and only 100% indigenous EV charger manufacturer, developing cutting-edge hardware and software charging ecosystems.
+- Built and maintained software components for **[ZenSense](https://zensense.ai)**, their central EV Charging Management System (CMS).
+- Designed and built an in-house **Procurement Tool** to optimize inventory tracking, component logistics, and material planning.
 
 ### Founder Office Intern — [IICPC](https://iicpc.com/) (InterCollegiate Informatic & Competitive Programming Camp)
 **Jan 2026 – Present | Chennai (Remote)**
@@ -122,7 +128,7 @@ Architected an offline-first maternal-health PWA for low-bandwidth regions with 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-bhargava/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryanb1906)
   [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aryanb1906.github.io)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanb1906@example.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanaakash2005@gmail.com)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aryanbhargava2005/)
   [![Codilio](https://img.shields.io/badge/Codilio-000000?style=for-the-badge&logo=codio&logoColor=white)](https://www.codilio.com/aryanbhargava2005/)
   [![GFG KIIT](https://img.shields.io/badge/GFG_KIIT-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gfgkiit.in/)
@@ -210,7 +216,7 @@ Architected an offline-first maternal-health PWA for low-bandwidth regions with 
 
 If you'd like to collaborate on **Frontend, AI/ML, or Competitive Programming projects**, feel free to connect.
 
-- 📧 Email: [aryanbhargava2005@gmail.com](mailto:aryanbhargava2005@gmail.com)
+- 📧 Email: [aryanaakash2005@gmail.com](mailto:aryanaakash2005@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/aryan-bhargava](https://www.linkedin.com/in/aryan-bhargava/)
 
 ## 🏆 GitHub Highlights

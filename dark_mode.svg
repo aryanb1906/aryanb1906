@@ -1,6 +1,6 @@
-<svg xmlns='http://www.w3.org/2000/svg' font-family="Consolas,'DejaVu Sans Mono',monospace" width='1120px' height='540px' font-size='16px'>
+<svg xmlns='http://www.w3.org/2000/svg' font-family="Consolas,'DejaVu Sans Mono',monospace" width='1120px' height='560px' font-size='16px'>
 <style>.key{fill:#ffa657;} .value{fill:#a5d6ff;} .cc{fill:#616e7f;} .add{fill:#3fb950;} .del{fill:#f85149;} text,tspan{white-space:pre;}</style>
-<rect width='1120px' height='540px' fill='#161b22' rx='15'/>
+<rect width='1120px' height='560px' fill='#161b22' rx='15'/>
 <text x='15' y='24' fill='#c9d1d9' font-size='13px'>
 <tspan x='15' y='24'>ffffffffffjfffjjffjffffjfjffffffjjjjjrrrrxxxxxnxxxxxxxnn</tspan>
 <tspan x='15' y='38'>///tttttftttttffffttfffnXJQCXuftffffffffjjjjrrrrxxxxxxxx</tspan>
@@ -49,16 +49,17 @@
 <text><tspan x='500' y='270'><tspan class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Building</tspan><tspan class="cc">:</tspan><tspan class="cc"> ....... </tspan><tspan class="value">Open Source · Hackathons</tspan></tspan></text>
 <text><tspan x='500' y='290' class='cc'>. </tspan></text>
 <text><tspan x='500' y='310' fill='#c9d1d9'>- Contact</tspan><tspan class='cc'> -—————————————————————————————————————-</tspan></text>
-<text><tspan x='500' y='330'><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan><tspan class="cc">:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">aryanbhargava2005@gmail.com</tspan></tspan></text>
+<text><tspan x='500' y='330'><tspan class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan><tspan class="cc">:</tspan><tspan class="cc"> ......... </tspan><tspan class="value">aryanaakash2005@gmail.com</tspan></tspan></text>
 <text><tspan x='500' y='350'><tspan class="cc">. </tspan><tspan class="key">Portfolio</tspan><tspan class="cc">:</tspan><tspan class="cc"> .............. </tspan><tspan class="value">aryanb1906.github.io</tspan></tspan></text>
 <text><tspan x='500' y='370'><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">:</tspan><tspan class="cc"> ............... </tspan><tspan class="value">aryan-bhargava</tspan></tspan></text>
-<text><tspan x='500' y='390'><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">aryanb1906</tspan></tspan></text>
-<text><tspan x='500' y='410' class='cc'>. </tspan></text>
-<text><tspan x='500' y='430' fill='#c9d1d9'>- GitHub Stats</tspan><tspan class='cc'> -————————————————————————————————-</tspan></text>
-<text><tspan x='500' y='450'><tspan class='cc'>. </tspan><tspan class='key'>Repos</tspan><tspan class='cc'> ..... </tspan><tspan class="value">33</tspan><tspan class='cc'> | </tspan><tspan class='key'>Stars</tspan><tspan class='cc'> ..... </tspan><tspan class="value">8</tspan></tspan></text>
-<text><tspan x='500' y='470'><tspan class='cc'>. </tspan><tspan class='key'>Commits</tspan><tspan class='cc'> ... </tspan><tspan class="value">2,936</tspan><tspan class='cc'> | </tspan><tspan class='key'>Followers</tspan><tspan class='cc'> . </tspan><tspan class="value">27</tspan></tspan></text>
-<text><tspan x='500' y='490'><tspan class='cc'>. </tspan><tspan class='key'>Member Since</tspan><tspan class='cc'> ... </tspan><tspan class="value">January 2024</tspan><tspan class='cc'> | </tspan><tspan class='key'>Location</tspan><tspan class='cc'> . </tspan><tspan class="value">Jaipur, IN</tspan></tspan></text>
-<text x='500' y='518' fill='#3fb950'>aryanb1906@github</text>
-<text x='670' y='518' fill='#c9d1d9'>:~$</text>
-<rect x='710' y='505' width='10' height='17' fill='#3fb950'><animate attributeName='opacity' values='1;1;0;0' dur='1.1s' keyTimes='0;0.5;0.5;1' repeatCount='indefinite'/></rect>
+<text><tspan x='500' y='390'><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>.<tspan class="key">Followers</tspan><tspan class="cc">:</tspan><tspan class="cc"> ..... </tspan><tspan class="value">500+</tspan></tspan></text>
+<text><tspan x='500' y='410'><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">:</tspan><tspan class="cc"> ................. </tspan><tspan class="value">aryanb1906</tspan></tspan></text>
+<text><tspan x='500' y='430' class='cc'>. </tspan></text>
+<text><tspan x='500' y='450' fill='#c9d1d9'>- GitHub Stats</tspan><tspan class='cc'> -————————————————————————————————-</tspan></text>
+<text><tspan x='500' y='470'><tspan class='cc'>. </tspan><tspan class='key'>Repos</tspan><tspan class='cc'> ..... </tspan><tspan class="value">33</tspan><tspan class='cc'> | </tspan><tspan class='key'>Stars</tspan><tspan class='cc'> ..... </tspan><tspan class="value">8</tspan></tspan></text>
+<text><tspan x='500' y='490'><tspan class='cc'>. </tspan><tspan class='key'>Commits</tspan><tspan class='cc'> ... </tspan><tspan class="value">2,936</tspan><tspan class='cc'> | </tspan><tspan class='key'>Followers</tspan><tspan class='cc'> . </tspan><tspan class="value">27</tspan></tspan></text>
+<text><tspan x='500' y='510'><tspan class='cc'>. </tspan><tspan class='key'>Member Since</tspan><tspan class='cc'> ... </tspan><tspan class="value">January 2024</tspan><tspan class='cc'> | </tspan><tspan class='key'>Location</tspan><tspan class='cc'> . </tspan><tspan class="value">Jaipur, IN</tspan></tspan></text>
+<text x='500' y='538' fill='#3fb950'>aryanb1906@github</text>
+<text x='670' y='538' fill='#c9d1d9'>:~$</text>
+<rect x='710' y='525' width='10' height='17' fill='#3fb950'><animate attributeName='opacity' values='1;1;0;0' dur='1.1s' keyTimes='0;0.5;0.5;1' repeatCount='indefinite'/></rect>
 </svg>
