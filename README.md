@@ -1,3 +1,16 @@
+```text
+=============================================================================
+ █████╗ ██████╗ ╚██╗  ██╗ ╚██████╗  ██╗   ██╗     ╚█████╗  ╚██████╗ ╚██████╗ ╚██████╗ 
+██╔══██╗██╔══██╗ ╚██╗██╔╝ ╚██╔══██╗ ╚██╗ ██╔╝     ╚██╔══██╗ ██╔══██╗██╔════╝ ██╔═══██╗
+███████║██████╔╝  ╚███╔╝   ███████║  ╚████╔╝      ╚███████║ ██████╔╝██║  ███╗██║   ██║
+██╔══██║██╔══██╗  ██╔██╗   ██╔══██║   ╚██╔╝       ██╔══██║ ██╔══██╗██║   ██║██║   ██║
+██║  ██║██║  ██║ ██╔╝ ██╗  ██║  ██║    ██║        ██║  ██║ ██████╔╝╚██████╔╝╚██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═╝  ╚═╝    ╚═╝        ╚═╝  ╚═╝ ╚═════╝  ╚═════╝  ╚═════╝ 
+=============================================================================
+[ SYSTEM STATUS: ONLINE ] [ NODE: ARYAN-BHARGAVA ] [ SHELL: /bin/bash ]
+=============================================================================
+```
+
 <p align="center">
   <a href="https://github.com/aryanb1906">
     <picture>
@@ -92,44 +105,23 @@ $ cat internships/gidm.md
 ## 🚀 $ ./run_projects.sh
 
 ```bash
-$ cat projects/scholar_ai.json
-{
-  "stack": ["Python", "Firebase", "Vercel", "Web", "Mobile"],
-  "description": "Built and deployed academic + career support platform.",
-  "metrics": {
-    "users": "200+ active",
-    "satisfaction": "95%"
-  },
-  "links": {
-    "repo": "https://github.com/aryanb1906?tab=repositories&q=scholar"
-  }
-}
+$ ./ScholarAI --run
+> [INFO] Initializing Firebase connection...
+> [INFO] Scholar AI active! Stack: Python, Firebase, Vercel
+> [SUCCESS] Target metrics met: Users: 200+ | Satisfaction: 95%
+> [URL] Repository: https://github.com/aryanb1906?tab=repositories&q=scholar
 
-$ cat projects/arth_mitra.json
-{
-  "stack": ["LangChain", "Gemini", "ChromaDB", "MiniLM"],
-  "description": "Developed a legal RAG system over 1,800+ chunks.",
-  "metrics": {
-    "accuracy": "95%",
-    "speedup": "5x (cached responses)"
-  },
-  "links": {
-    "repo": "https://github.com/aryanb1906?tab=repositories&q=arth"
-  }
-}
+$ ./ARTH-MITRA --load-rag
+> [INFO] Chunking legal database... Loaded 1,800+ nodes in ChromaDB.
+> [INFO] Query model: MiniLM, LangChain, Gemini API
+> [SUCCESS] Query response accuracy: ~95% | Latency: 5x faster (cached)
+> [URL] Repository: https://github.com/aryanb1906?tab=repositories&q=arth
 
-$ cat projects/sehat_saheli.json
-{
-  "stack": ["Next.js 14", "Gemini API", "PWA", "Edge Functions"],
-  "description": "Architected offline-first maternal-health PWA.",
-  "metrics": {
-    "latency": "-40%",
-    "features": "Twilio SOS with GPS tracker"
-  },
-  "links": {
-    "repo": "https://github.com/aryanb1906?tab=repositories&q=sehat"
-  }
-}
+$ ./Sehat-Saheli --offline-first
+> [INFO] Synchronizing maternal-health database via service workers...
+> [INFO] Stack: Next.js 14, Gemini API, PWA, Edge Functions
+> [SUCCESS] Offline tracking active. Twilio SOS latency reduced by 40%
+> [URL] Repository: https://github.com/aryanb1906?tab=repositories&q=sehat
 ```
 
 ---
@@ -143,11 +135,13 @@ $ cat achievements/highlights.txt
 [+] Selected for ACM Summer School 2025 at Trust Lab, IIT Bombay
 [+] Top 10 Finalist, Energy Hackathon 2025 by IIT Delhi (700+ teams)
 
-$ cat achievements/competitive_programming.txt
-- LeetCode: Solved 350+ Problems (Max Rating 1670+)
-- Codeforces: Pupil (Rating 1200+)
-- CodeChef: Max Rating 1530+
-- GEEKCLASH Episode 1: Secured 2nd Rank (among 250+ participants)
+$ ./check_progress.sh --cp
+LeetCode   [██████████░░░░░░░░░░] 350+ Solved (Max Rating: 1670+)
+Codeforces [██████░░░░░░░░░░░░░░] Pupil (Max Rating: 1200+)
+CodeChef   [████████░░░░░░░░░░░░] 1.5K+ Max Rating (3★ Star)
+
+CP Metrics:
+- Secured 2nd Rank: GEEKCLASH Episode 1 (among 250+ participants)
 - Mentorship: Guided 50+ students in DSA and CP at SSSC'25 by IGDTUW
 ```
 
@@ -306,7 +300,14 @@ Impact:
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" alt="quote" />
+</p>
+
+<p align="center">
+  <samp>
+    $ tail -n 1 connection_log.txt<br>
+    [LOG] Session established. Total secure profile connections:
+  </samp>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=aryanb1906&style=flat-square&color=0e75b6" alt="visitor count" />
 </p>
