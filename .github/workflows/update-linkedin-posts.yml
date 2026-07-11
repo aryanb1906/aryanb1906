@@ -17,6 +17,7 @@ jobs:
 
       - name: Update README from LinkedIn RSS
         uses: gautamkrishnar/blog-post-workflow@v1
+        continue-on-error: true
         with:
           feed_list: "https://rsshub.app/linkedin/posts/aryan-bhargava"
           max_post_count: 5

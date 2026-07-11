@@ -49,11 +49,10 @@ $ ls education/
   Score: 94.40%
 ```
 
-**Relevant Coursework:**
-![Data Structures](https://img.shields.io/badge/Data%20Structures-0A66C2?style=for-the-badge)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-4CAF50?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-FF9800?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-9C27B0?style=for-the-badge)
+```bash
+$ ls coursework/
+Data_Structures  Operating_Systems  OOP  DBMS
+```
 
 ---
 
@@ -190,15 +189,29 @@ $ cat volunteering/algozenith_kiit.txt
 
 ```bash
 $ cat updates/viral_linkedin_post.txt
-# Viral LinkedIn Editorial — 250K+ Views
-# Link: https://www.linkedin.com/in/aryan-bhargava/
+=============================================================================
+📢 VIRAL EDITORIAL: COLD EMAILS THAT ACTUALLY GOT REPLIES (250K+ VIEWS)
+=============================================================================
+Date: July 2026
+Source Link: https://lnkd.in/p/gRFQJY7n
 
-A detailed perspective on modern tech stacks, competitive programming,
-and internship growth strategies that resonated across the global tech community.
+Summary:
+When I first started applying for internships, I thought sending one email was
+enough. It wasn't. Most of my replies came after a follow-up, not the first.
 
-- Total Views: 250,000+ Views
-- Engagements: 1,500+ Reactions & Comments
-- Read Post: https://www.linkedin.com/in/aryan-bhargava/
+Key Strategy Breakdown:
+[1] Finding Emails: Using SignalHire, Apollo, and ContactOut to identify patterns.
+[2] Who to Email: Reaching out directly to Hiring Managers & Software Engineers.
+[3] Tracker System: Automating with a custom Python script and Google Sheets.
+[4] The Cadence: Initial Email -> (Wait 7 Days) -> Follow-up 1 -> (Wait 7 Days) -> Follow-up 2.
+
+Impact:
+- 250,000+ total impressions / views on LinkedIn
+- 400+ comments requesting templates and sharing insights
+- High response rate leading to direct interview references
+
+👉 Read & Engage: https://lnkd.in/p/gRFQJY7n
+=============================================================================
 ```
 
 ---
@@ -209,8 +222,8 @@ and internship growth strategies that resonated across the global tech community
 > Fallback: edit `data/linkedin-posts.json` and run **Update LinkedIn posts in README (Fallback)** workflow.
 
 <!-- LINKEDIN-POST-LIST:START -->
-- 📝 [My latest LinkedIn post title](https://www.linkedin.com/posts/aryanb1906_example)
-- 📝 [Another LinkedIn update](https://www.linkedin.com/posts/aryanb1906_example2)
+- 📝 [Cold Emails That Actually Got Replies (Day 3)](https://www.linkedin.com/posts/aryan-bhargava_internships-coldemail-students-activity-7479768631875170304-ct4X)
+- 📝 [View all LinkedIn posts and activity](https://www.linkedin.com/in/aryan-bhargava/recent-activity/all/)
 <!-- LINKEDIN-POST-LIST:END -->
 
 👉 [View all LinkedIn activity](https://www.linkedin.com/in/aryan-bhargava/recent-activity/all/)
@@ -220,10 +233,8 @@ and internship growth strategies that resonated across the global tech community
 ## 📊 $ systemctl status analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/algolia/0-profile-details.svg" alt="Profile Details" height="130" />
-  <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/algolia/3-stats.svg" alt="Stats" height="130" />
-  <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/algolia/1-repos-per-language.svg" alt="Repos per Language" height="130" />
-  <img src="https://raw.githubusercontent.com/aryanb1906/aryan/master/profile-summary-card-output/algolia/2-most-commit-language.svg" alt="Most Commit Language" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanb1906&show_icons=true&theme=matrix&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanb1906&layout=compact&theme=matrix&hide_border=true" alt="Top Languages" height="150" />
   <br><br>
   <img src="./assets/productive-time-ist.svg" alt="Productive Time (IST)" height="140" />
 </p>
@@ -232,13 +243,13 @@ and internship growth strategies that resonated across the global tech community
 
 <p align="center">
   <a href="https://github.com/aryanb1906" target="_blank">
-    <img src="https://streak-stats.demolab.com?user=aryanb1906&theme=radical&hide_border=true" alt="GitHub streak" height="130" />
+    <img src="https://streak-stats.demolab.com?user=aryanb1906&theme=matrix&hide_border=true" alt="GitHub streak" height="140" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/aryanb1906" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanb1906&theme=react-dark&hide_border=true&area=true&custom_title=GitHub+Activity+Graph" alt="Contribution calendar" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanb1906&theme=matrix&hide_border=true&area=true&custom_title=GitHub+Activity+Graph" alt="Contribution calendar" width="100%" />
   </a>
 </p>
 
@@ -251,7 +262,7 @@ and internship growth strategies that resonated across the global tech community
 ## 🏆 $ git log --oneline achievements
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aryanb1906&theme=tokyonight&hide_border=true" alt="GitHub streak" height="130" />
+  <img src="https://streak-stats.demolab.com?user=aryanb1906&theme=matrix&hide_border=true" alt="GitHub streak" height="140" />
   <br><br>
   <img src="https://img.shields.io/github/followers/aryanb1906?style=for-the-badge&label=Followers" alt="followers" />
   <img src="https://img.shields.io/github/stars/aryanb1906?style=for-the-badge&label=Total%20Stars" alt="stars" />
